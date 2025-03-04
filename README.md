@@ -1280,7 +1280,7 @@
 | [Feed](https://www.ichenfu.com/atom.xml) | C0reFast记事本 | https://www.ichenfu.com/ | 技术; 编程; Linux |
 | [Feed](https://isming.me/index.xml) | 码农明明桑 | https://isming.me | 技术; 生活; 旅行; 读书 |
 | None | 七仔的博客 | https://www.baby7blog.com | 编程; 随笔; 工具; 个人 |
-| [Feed](https://www.dolingou.com/rss/feed.xml) | Dolingou | https://www.dolingou.com | 路由器; 家庭网络; 工具; OpenWRT; 分享 |
+| [Feed](https://deeprouter.org/rss/feed.xml) | Deeprouter | https://deeprouter.org | 路由器; 家庭网络; 工具; OpenWRT; 分享 |
 | None | Jame | https://jame.work/ | 随笔 |
 | [Feed](https://inote.xyz/zh/rss.xml) | iNote | https://inote.xyz/zh/ | 投资; 创业; 生活 |
 | None | HotaruBlog | https://hotaru.icu | 编程; 开源; 技术; 笔记; 记录; 生活; 分享; 个人 |
@@ -1323,7 +1323,7 @@
 | [Feed](https://ruufly.github.io/atom.xml) | distjr_'s blog | https://ruufly.github.io/ | 技术; 随笔; 音乐; 二次元 |
 | [Feed](https://moonstone.fun/feed/) | 月石MoonStone | https://moonstone.fun | 中国古建筑; 唐宋辽金古建筑; 中国木结构建筑; 古建筑知识; 营造法式; 斗栱; 大木作; 3D模型 |
 | [Feed](https://blog.thedoga.tech/feed) | 栖木的网络日志 | https://blog.thedoga.tech/ | 随笔; 生活; 杂七杂八 |
-| [Feed](https://ymxblog.us.kg/rss2.xml) | 叶泯希 | https://ymxblog.us.kg/ | 生活; 摄影; 教程 |
+| [Feed](https://blog.418121.xyz/rss2.xml) | 叶泯希 | https://blog.418121.xyz/ | 生活; 摄影; 教程 |
 | [Feed](https://blog.ytmc.fun/rss.xml) | 一桐のBlog | https://blog.ytmc.fun/ | 编程; 技术; 折腾; 生活 |
 | [Feed](https://evan.xin/feed) | Evan | https://evan.xin | 生活 |
 | [Feed](https://pt2mu.top/atom.xml) | 假装看风景 | https://pt2mu.top/ | 生活; 记录; 碎碎念 |
@@ -1340,7 +1340,7 @@
 | [Feed](https://www.waistu.com/atom.xml) | 二歪同学 | https://www.waistu.com/ | 数码; 科技; 生活; 教程 |
 | [Feed](https://cxy0714.github.io/index.xml) | 陈星宇的主页 | https://cxy0714.github.io/ | 统计学; 随笔 |
 | [Feed](https://blog.liushen.fun/atom.xml) | 清羽飞扬 | https://blog.liushen.fun | 技术; 生活; 随笔; 记录 |
-| [Feed](https://peter267.github.io/rss.xml) | PeterTech | https://peter267.zeabur.app | 科技; 生活; 教程; AIGC |
+| [Feed](https://peter267.github.io/atom.xml) | PeterTech | https://peter267.github.io | 科技; 生活; 教程; AIGC |
 | [Feed](https://blog.huan99.com/atom.xml) | Huan's Blog | https://blog.huan99.com | 自我成长; 后端; 阅读; 随笔 |
 | [Feed](https://blog.cugxuan.cn/atom.xml) | 泫言 | https://blog.cugxuan.cn | 生活; 编程; 科技; 记录 |
 ## 什么是独立博客
